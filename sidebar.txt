@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bws:home|Door43 (bws)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bws|d43-bws repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bws/archive/master.zip|d43-bws.zip]]
+
+**Recent Changes**
+{{changes>ns = bws}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bws|Ethnologue data]]
+
